@@ -1,0 +1,39 @@
+.landing-con{
+    display: flex;
+  }
+.img-con{
+    width:50%;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: antiquewhite;
+
+}
+.img-con img{
+    object-fit: cover;
+    width:100%;
+}
+.text-con{
+    display:flex;
+    flex-direction: column;
+    align-self: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.content{
+    font-weight: bold;
+    color:rgb(22, 103, 174);
+    font-size: 30px;
+}
+.but-con{
+    padding: 20px;
+text-align: center;}
+.butt{
+    width:50px;
+    border:2px solid rgb(22, 103, 174);
+    border-radius: 5px;
+    background-color: white;
+    color: rgb(22, 103, 174);
+    font-size: 15px;
+    padding: 5px;
+
+}

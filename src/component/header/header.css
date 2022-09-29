@@ -1,0 +1,25 @@
+.head-con{
+    display:flex;
+    padding:20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.logo-con img{
+    width:150px;
+   margin-top: 10px;
+    }
+.cam-con img{
+    width:60px;
+    margin-top: 10px;
+
+}
+.logo-con{
+  margin-left: auto;
+
+}
+.cam-con{
+    margin-left: auto;
+   margin-right:20px;
+   align-self: center;
+
+}
